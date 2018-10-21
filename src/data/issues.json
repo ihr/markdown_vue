@@ -1,0 +1,30 @@
+[
+  {
+    "number": 2254,
+    "title": "generate routes using Apollo in nuxt.config.js"
+  },
+  {
+    "number": 2253,
+    "title": "Did you already released #2081 ?"
+  },
+  {
+    "number": 2251,
+    "title": "The client-side rendered virtual DOM tree is not matching server-rendered content. This is likely caused by incorrect HTML markup, for example nesting block-level elements inside <p>, or missing <tbody>. Bailing hydration and performing full client-side render."
+  },
+  {
+    "number": 2246,
+    "title": "Problem with jquery plugins and server side rendering"
+  },
+  {
+    "number": 2243,
+    "title": "Add support for Domino"
+  },
+  {
+    "number": 2237,
+    "title": "Browser compatibility"
+  },
+  {
+    "number": 2234,
+    "title": "Intercept console output in tests"
+  }
+]
